@@ -18,5 +18,5 @@ A simple command-line calculator built with Node.js that supports basic operatio
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cli-calculator.git
+git clone https://github.com/AidenHammy/cli-calculator.git
 cd cli-calculator
